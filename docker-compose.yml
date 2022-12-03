@@ -1,7 +1,7 @@
 # 引用サイト　https://zenn.dev/at12/articles/b2be2e2c643a12
 version: '3.3'
 services:
-  dev:
+  kyopuro:
     build: .
     volumes:
       - type: bind
